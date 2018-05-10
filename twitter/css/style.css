@@ -21,7 +21,7 @@ h1, h2, h3, p { margin: 0; padding: 0; }
     margin: 1em auto;
 }
 header {
-    font-family: 'Lobster', cursive;
+    font-family: 'Lobster';
     font-size: 1.125em;
     line-height: 2.5rem;
     text-align: center;
